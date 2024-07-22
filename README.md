@@ -1,6 +1,10 @@
 ## ETL with Python 
 ##### Project for Cloud Data Engineering Roadmap
 
+
+![ETL-With-Python-ArchDiagram](https://github.com/user-attachments/assets/ba4abb31-1eb7-4a88-8614-5ed1596f583e)
+
+
 ### Project 01 : Acquiring and processing information on world's largest banks
 
 - Task 1: Logging function
@@ -10,5 +14,3 @@
 - Task 5: Loading to Database
 - Task 6: Function to Run queries on Database
 - Task 7: Verify log entries
-
-
